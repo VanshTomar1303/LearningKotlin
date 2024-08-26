@@ -1,0 +1,37 @@
+Kotlin Introduction :
+  1 -> statically typed object oriented language
+  2 -> targets JVM,Android and even JavaScript
+  3 -> can do anything which java can
+  4 -> combines Object oriented and functional programming feature
+  5 -> But it's not Functional language
+  6 -> Developed and maintained by JetBrains
+  7 -> open source
+  8 -> released under Apache 2 OSS License
+
+-> modern
+-> pragmatic - focus on pratically stuff
+
+Programming language for:
+~ JVM
+~ Android
+~ Browser 
+~ Native
+
+What is Kotlin?
+Kotlin is being used more and more in Android application development. It is an open-source programming language that JetBrains and Google created and oversees.
+
+What is a Programming language?
+Programmers create software programmes, scripts, and other sets of instructions for computers to follow using a programming language.
+
+What is app development?
+App development is the process of creating software applications that run on mobile devices, such as smartphones and tablets. It involves designing the user interface, writing code for the app's functionality, and testing the app to ensure it works as intended.
+
+What is Android development?
+Android development is the process of creating mobile applications that run on the Android operating system. It involves designing the user interface, writing code in Java or Kotlin for the app's functionality, and testing the app to ensure it works on a variety of devices.
+
+What is UI/UX design?
+UI/UX design refers to the process of designing the user interface and user experience of a digital product, such as a website or mobile application. It involves creating a visually appealing and user-friendly interface that is easy to navigate and provides a positive user experience.
+
+Who is a Mobile App Developer?
+A Mobile App Developer is a software professional who designs, develops, and maintains applications for mobile devices such as smartphones and tablets. They are responsible for creating efficient, user-friendly, and visually appealing mobile apps using various programming languages and development tools.
+

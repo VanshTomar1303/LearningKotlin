@@ -1,0 +1,13 @@
+Why Java (JDK)?
+ Because Kotlin is a JVM language
+
+ Kotlin files(.kt) -----compile----> byte code -----Run---> JVM
+
+ JDK -> Java Development Kit
+ JDK = JVM + JRE + Other libraries and exe
+
+
+What is JVM Language?
+A Java virtual machine (JVM) is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode.
+
+JVM is responsible for loading , verifying and executing java byte code.

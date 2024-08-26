@@ -1,0 +1,22 @@
+Quick facts:
+
+1. Kotlin doesn't need `;` to end statement
+
+2. Kotlin is null safe
+
+3. Kotlin is 100% Java interoperable
+'--> means whenever two Java and Kotlin files exist together they can share data with each other.
+
+4. No Primitives: Kotlin doesn't have primitive types but optimizes object counterparts for the JVM.
+
+5. Properties, Not Fields: Kotlin classes use properties instead of fields.
+
+6. Data Classes: Kotlin offers data classes with auto-generated equals, hashCode, and field accessors.
+
+7. Runtime Exceptions: Kotlin only has runtime exceptions, no checked exceptions.
+
+8. No new Keyword: Object creation is done by calling the constructor like a method.
+
+9. Operator Overloading: Kotlin supports limited operator overloading.
+
+10. Multiplatform: Kotlin can be compiled to bytecode for the JVM and JavaScript, allowing for both backend and frontend development.
